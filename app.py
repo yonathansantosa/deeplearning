@@ -1,1 +1,1 @@
-import main
+execfile('main.py')
